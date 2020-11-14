@@ -19,7 +19,7 @@ Widgets adicionales:
 Radiobutton: Que sirve para cambiar el color de fondo.
 Checkbutton: Para habilitar la opción de ver el resultado con decimales.
 Messagebox: Que sirve para ver información acerca de las funciones del programa.
-
+![image](https://user-images.githubusercontent.com/72529907/99155823-88a7b780-2689-11eb-8cec-7444cd6f88c6.png)
 ![image](https://user-images.githubusercontent.com/72529907/99155811-66ae3500-2689-11eb-8e5d-f5d2e928ac19.png)
 
 
